@@ -13,12 +13,17 @@ Run this application from the command line with the following arguments:
 Optional Arguments:
 
 >-h, --help			Show this help message
+
 >-s, --server		IP address of the Lightspeed Server. Defaults to 'localhost' if not specified
+
 >-n, --port			Port Number of the Lightspeed Server. Defaults to '9630' if not specified
 
 Required Arguments:
 
 >-u, --user			Lightspeed Username
+
 >-p, --password		Lightspeed Password
+
 >-a, --useragent	User-Agent
+
 >-x, --xpappid		X-PAPPID
