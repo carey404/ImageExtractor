@@ -2,11 +2,11 @@
 
 ImageExtractor is an integration created for Lightspeed OnSite to download product images. These images will be saved locally and a CSV file will be created that lists the product code and corresponding image filename.
 
-##Instructions
+## Instructions
 
 To use this integration you must have a Lightspeed Developer Exchange (LDX) account and already have registered an integration. You will need to supply the User-Agent and Private ID when running this application.
 
-##Usage
+## Usage
 
 Run this application from the command line with the following arguments:
 
